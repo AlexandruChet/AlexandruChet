@@ -1,32 +1,31 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=80&lines=Hi%2C+I'm+Alexandru+Chetrean!;14-year-old+Developer+from+Germany;Frontend+Dev+%7C+Future+C%2B%2B+System+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=80&lines=👋+Hi%2C+I'm+Alexandru+Chetrean!;🧑‍💻+14-year-old+Developer+from+Germany;💻+Frontend+Dev+%7C+⚙️+Future+C%2B%2B+System+Programmer" alt="Typing SVG" />
 </div>
 
 ---
 
-<h1 align="center">👋 Welcome to my GitHub!</h1>
-<h3 align="center">💻 Young Developer | 🌍 Germany | 🚀 Passionate about Coding</h3>
+<h1 align="center">🚀 Welcome to my GitHub!</h1>
+<h3 align="center">💻 Young Developer | 🌍 Germany | 🔥 Passionate about Coding</h3>
 
 ---
 
 ## 👨‍💻 About Me
 ✨ **14 years old**  
 🌍 Living in **Germany**  
-🖥️ Focused on **Frontend Development** (HTML, CSS, JS, TS, React)  
+🎨 Focused on **Frontend Development** (HTML, CSS, JS, TS, React)  
 ⚡ Currently learning **C++** to become a **System Programmer**  
 🎯 Love **creating projects** and constantly improving skills  
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,cpp,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Projects
 <div align="center">
 
 | 🌍 Website | 🎮 TicTacToe | ⚔️ C-RPG |
@@ -43,7 +42,7 @@
 
 ## 🏆 Achievements
 - ✅ Built multiple **frontend projects**  
-- ⚙️ Learned **Node.js** and created a **file manager**  
+- ⚙️ Learned **Node.js** and created a **File Manager**  
 - 🎮 Developing **games & apps in JavaScript and C++**  
 - 📈 Always improving, always learning 🚀  
 
@@ -54,9 +53,9 @@
 ---
 
 ## 🎯 Goals
-- 🔹 Become a **professional C++ System Programmer**  
-- 🔹 Grow as a **Frontend & Fullstack Developer**  
-- 🔹 Contribute to **Open Source** & build **large projects**  
+- 🔹 Become a **professional C++ System Programmer** 🖥️  
+- 🔹 Grow as a **Frontend & Fullstack Developer** 🌍  
+- 🔹 Contribute to **Open Source** & build **large projects** 🌟  
 
 ---
 
@@ -69,8 +68,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandruChet&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
 </p>
-
----
 
 ## 📫 Contact Me
 <p align="center">
