@@ -1,27 +1,26 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=80&lines=Hi%2C+I'm+Alexandru+Chetrean!;14-year-old+Developer+from+Germany;Frontend+Dev+%7C+Future+C%2B%2B+System+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Alexandru+Chetrean!;14-year-old+Developer+from+Germany;Frontend+Dev+%7C+Future+C%2B%2B+System+Programmer" alt="Typing SVG" />
 </div>
 
 ---
 
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+<h1 align="center">👋 Welcome!</h1>
 <h3 align="center">💻 Young Developer | 🌍 Germany | 🚀 Passionate about Coding</h3>
 
 ---
 
 ## 👨‍💻 About Me
-✨ **14 years old**  
-🌍 Living in **Germany**  
-🖥️ Focused on **Frontend Development** (HTML, CSS, JS, TS, React)  
-⚡ Currently learning **C++** to become a **System Programmer**  
-🎯 Love **creating projects** and constantly improving skills  
+- ✨ **14 years old**  
+- 🌍 Based in **Germany**  
+- 🖥️ Focused on **Frontend Development** *(HTML, CSS, JS, TS, React)*  
+- ⚡ Currently learning **C++** to become a **System Programmer**  
+- 🎯 Love **creating projects** & constantly improving  
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,cpp,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,cpp,git,github,vscode&perline=7" />
 </p>
 
 ---
@@ -43,8 +42,8 @@
 
 ## 🏆 Achievements
 - ✅ Built multiple **frontend projects**  
-- ⚙️ Learned **Node.js** and created a **file manager**  
-- 🎮 Developing **games & apps in JavaScript and C++**  
+- ⚙️ Learned **Node.js** & created a **file manager**  
+- 🎮 Developing **games & apps** in JavaScript and C++  
 - 📈 Always improving, always learning 🚀  
 
 <p align="center">
@@ -62,12 +61,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruChet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruChet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruChet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruChet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandruChet&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandruChet&theme=tokyonight&hide_border=true&background=0D1117" height="160"/>
 </p>
 
 ---
@@ -80,4 +79,4 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<h3 align="center">✨ Thanks for visiting! ✨</h3>
